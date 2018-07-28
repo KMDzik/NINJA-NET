@@ -11,3 +11,20 @@ header {
     font-size: 20px;
 }
 /* I'm checking how the commments works */
+
+h1 {
+    text-decoration: underline;
+    color: brown;
+}
+
+#experience {
+    text-transform: uppercase;
+    width: 300px;
+    background-color: antiquewhite;
+    margin: left;
+    color: blue;
+}
+
+ul{
+    color:red;
+}
