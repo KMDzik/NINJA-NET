@@ -1,0 +1,7 @@
+#all-articles h2 + p {
+    color: blueviolet; 
+}
+
+p[class]{
+    background-color: grey;
+}
