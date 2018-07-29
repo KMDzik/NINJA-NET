@@ -22,6 +22,12 @@ header:visited{
     color:pink;
 }
 
+h2:nth-of-type(1), h2:nth-of-type(2) {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: darkseagreen;
+}
+
 li:nth-child(even){
     font-weight: bold;
     background-color: rgb(12, 145, 18);
